@@ -49,10 +49,8 @@ public Plugin myinfo =
 	name = "Dodge Ball for CS:GO",
 	author = "Trostal",
 	description = "Throw balls, get frags!",
-//	author = "Trostal",
-//	description = "Dodge ball mod plugin for Counter-Strike: Global Offensive",
 	version = PLUGIN_VERSION,
-	url = "http://cafe.naver.com/sourcemulti"
+	url = "https://github.com/Hatser/Dodge-Ball"
 };
 
 public void OnPluginStart()
